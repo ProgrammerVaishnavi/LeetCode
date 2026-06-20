@@ -9,4 +9,16 @@
 | [1667-fix-names-in-a-table](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
