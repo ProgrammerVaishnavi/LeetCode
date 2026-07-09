@@ -15,6 +15,7 @@
 | [1667-fix-names-in-a-table](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 ## Hash Table
 |  |
 | ------- |
