@@ -11,6 +11,7 @@
 | [0584-find-customer-referee](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1164-product-price-at-a-given-date) |
