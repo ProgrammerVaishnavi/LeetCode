@@ -26,6 +26,7 @@
 | [1729-find-followers-count](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/1907-count-salary-categories) |
 ## Hash Table
 |  |
 | ------- |
