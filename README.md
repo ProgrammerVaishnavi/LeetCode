@@ -9,6 +9,7 @@
 | [0196-delete-duplicate-emails](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/ProgrammerVaishnavi/LeetCode/tree/master/0626-exchange-seats) |
